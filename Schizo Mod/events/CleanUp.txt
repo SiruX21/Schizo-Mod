@@ -3071,17 +3071,6 @@ country_event = {
 				country_event = 60168161
 			}
 		}
-        random_owned = {
-            limit = {
-				owner = {
-					tag = FRA
-					has_global_flag = you_are_playing_mp
-				}
-            }
-            owner = { 
-				country_event = 60168150 
-			}
-        }
     }
 
     option = {
@@ -3098,17 +3087,6 @@ country_event = {
 				country_event = 60168161
 			}
 		}
-        random_owned = {
-            limit = {
-				owner = {
-					tag = FRA
-					has_global_flag = you_are_playing_mp
-				}
-            }
-            owner = { 
-				country_event = 60168150 
-			}
-        }
     }
 }
 
@@ -3135,17 +3113,6 @@ country_event = {
 				country_event = 60168161
 			}
 		}
-        random_owned = {
-            limit = {
-				owner = {
-					tag = FRA
-					has_global_flag = you_are_playing_mp
-				}
-            }
-            owner = { 
-				country_event = 60168150 
-			}
-        }
     }
 
     option = {
@@ -3162,17 +3129,6 @@ country_event = {
 				country_event = 60168161
 			}
 		}
-        random_owned = {
-            limit = {
-				owner = {
-					tag = FRA
-					has_global_flag = you_are_playing_mp
-				}
-            }
-            owner = { 
-				country_event = 60168150 
-			}
-        }
     }
 	
     option = {
@@ -3191,17 +3147,6 @@ country_event = {
 				country_event = 60168161
 			}
 		}
-        random_owned = {
-            limit = {
-				owner = {
-					tag = FRA
-					has_global_flag = you_are_playing_mp
-				}
-            }
-            owner = { 
-				country_event = 60168150 
-			}
-        }
     }
 }
 #Railroading?
@@ -3220,16 +3165,6 @@ country_event = {
     option = {
         name = "Choo-choo!"
 		country_event = 60168162
-		#random_owned = {
-        #    limit = {
-		#		owner = {
-		#			tag = FRA
-		#		}
-        #    }
-        #    owner = { 
-		#		country_event = 60168150 
-		#	}
-        #}
     }
 }
 #Railroading Carlists
@@ -3457,19 +3392,6 @@ country_event = {
 		country_event = 60168152
     }
 }
-#France explained
-country_event = {
-    id = 60168150
-    title = "How to get Napoleon III"
-    desc = "NAPOLEONEXPLAINED"
-    picture = "napoleon_explanation"
-    fire_only_once = yes
-	is_triggered_only = yes
-	
-	option = {
-        name = "Thank you for explaining!"
-    }
-}
 #MP or SP
 country_event = {
     id = 60168152
@@ -3511,6 +3433,18 @@ country_event = {
         end_war = FROM
     }
 }
+country_event = {
+	id = 4207008
+	title = "Straits"
+	desc = "EVTDESC4207008"
+	picture = "straits_explained"
+	is_triggered_only = yes
+	
+	option = {
+		name = "Got it."
+	}
+}
+
 
 #Vassal Stolen CB - Vassals bounce event to player
 country_event = {
