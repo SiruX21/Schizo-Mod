@@ -3049,7 +3049,34 @@ country_event = {
     }
 }
 
+#MP or SP
+country_event = {
+    id = 60168152
+    title = "Are you playing SP or MP?"
+    desc = "Please select whether you are playing a singleplayer or multiplayer game. This will impact multiplayer balancing and remove some exploitable singleplayer features."
+    picture = "abraham_speech"
+	is_triggered_only = yes
 
+    immediate = {
+        set_country_flag = mp_or_sp
+    }
+
+	option = {
+        name = "I'm a sigma, I play alone."
+        country_event = 4207008
+    }
+    option = {
+        name = "I have friends to game with."
+        set_global_flag = you_are_playing_mp
+		clr_country_flag = show_the_build_decisions
+		badboy = -10
+		any_country = {
+			clr_country_flag = show_the_build_decisions
+			badboy = -10
+		}
+        country_event = 4207008
+    }
+}
 #End war with non-existent nations
 country_event = {
     id = 1412204

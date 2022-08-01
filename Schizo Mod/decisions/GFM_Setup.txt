@@ -35,7 +35,7 @@ political_decisions = {
 				limit = {
 					ai = no
 				}
-				country_event = 4207008
+				country_event = 60168151
 			}
 			
 			630 = {
