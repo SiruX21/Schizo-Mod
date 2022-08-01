@@ -1,6 +1,4 @@
 Key;English;French;German;Polish;Spanish;Italian;Swedish;Czech;Hungarian;Dutch;Portuguese;Russian;Finnish;
-option_disable_starting_party_loyalty_title;Option: Remove Starting Party Loyalty;;;;;;;;;;;;;
-option_disable_starting_party_loyalty_desc;This option will remove all starting party loyalty.;;;;;;;;;;;;;
 option_disable_bankruptcy_events_title;Option: Disable the Bankruptcy Events;;;;;;;;;;;;;
 option_disable_bankruptcy_events_desc;Disabling the Bankruptcy events will stop you from getting the CB and effects that happen when a country goes bankrupt on you. It won't stop the event for the AI nor will stop countries going bankrupt.;;;;;;;;;;;;;
 enable_options_title;Show 'Options' Decisions;;;;;;;;;;;;;
@@ -17,3 +15,5 @@ option_disable_colonial_railroading_title;Option: Disable Colonial Railroading;;
 option_disable_colonial_railroading_desc;This tweak will disable the colonial railroading events in Africa.;;;;;;;;;;;;;
 disable_trade_policy_globally_title;Option: Disable Trade Policy Decisions;;;;;;;;;;;;;
 disable_trade_policy_globally_desc;The trade policy decisions helps the AI save more money and help historically heavily protectionist countries (like the US, Russia) to do what they did historically and levy heavy tariffs on imports. They happen once every 10 years (sometimes they are rescinded earlier though) and the AI has full autonomy to pick one of the several choices (so no behaviour is guaranteed). If you'd like to disable this for some reason, you can do it with this option.;;;;;;;;;;;;;
+option_disable_hpm_crisis_title;Option: Enable Crisis from the Start;;;;;;;;;;;;;
+option_disable_hpm_crisis_desc;In HPM, crisis only start after 1870 and after Revolution and Counter-revolution is researched and an event fires. This is to stop stuff like free Ireland in 1840 because of the militancy that the famine generates, among other weird crisis. Selecting this option will remove these restrictions and make crisis happen from the start of the game, like it happens in Vanilla Victoria 2.;;;;;;;;;;;;;

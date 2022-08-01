@@ -144,7 +144,46 @@ political_decisions = {
         ai_will_do = { factor = 0 }
     }
 
+    option_disable_hpm_crisis = {
+        picture = starting_options
+        alert = no
+        potential = {
+            exists = yes
+            NOT = { has_global_flag = revolution_n_counter_researched }
+            OR = {
+                AND = {
+                    ai = no
+                    has_country_flag = country_looking_through_options
+                    NOT = { year = 1837 }
+                }
+                AND = {
+                    ai = yes
+                    year = 1886
+                    OR = {
+                        revolution_n_counterrevolution = 1
+                        any_neighbor_country = { revolution_n_counterrevolution = 1 }
+                        any_greater_power = { revolution_n_counterrevolution = 1 }
+                    }
+                }
+                AND = {
+                    ai = yes
+                    year = 1870
+                    has_global_flag = unlock_crisis_in_1870
+                    OR = {
+                        revolution_n_counterrevolution = 1
+                        any_neighbor_country = { revolution_n_counterrevolution = 1 }
+                        any_greater_power = { revolution_n_counterrevolution = 1 }
+                    }
+                }
+            }
+        }
 
+        allow = {}
+
+        effect = { set_global_flag = revolution_n_counter_researched }
+
+        ai_will_do = { factor = 1 }
+    }
 	
 
     option_disable_colonial_railroading = {
@@ -206,35 +245,6 @@ political_decisions = {
         ai_will_do = { factor = 0 }
     }
 	
-	option_disable_starting_party_loyalty = {
-        picture = starting_options
-        alert = no
-        potential = {
-			NOT = { has_global_flag = you_are_playing_mp }
-            NOT = { has_global_flag = party_loyalty_eliminated }
-            OR = {
-                AND = {
-					ai = no
-					has_country_flag = country_looking_through_options
-					NOT = { year = 1837 }
-                }
-                AND = {
-                    ai = yes
-                    year = 1841
-                }
-            }
-        }
-
-        allow = {
-        }
-
-        effect = {
-            set_global_flag = party_loyalty_eliminated
-            country_event = 6016814
-        }
-
-        ai_will_do = { factor = 1 }
-    }
 
     disable_trade_policy_globally = {
         picture = starting_options
