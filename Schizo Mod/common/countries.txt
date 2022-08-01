@@ -10,7 +10,6 @@ CLN        = "countries/Cleanup.txt"
 ###France Mod###
 NZF        = "countries/French New Zealand.txt"
 FAS        = "countries/French Australia.txt"
-FCA        = "countries/French Canada.txt"
 ULA        = "countries/Louisiana.txt"
 EIC        = "countries/East India Company.txt"
 OCC        = "countries/Occitania.txt"
