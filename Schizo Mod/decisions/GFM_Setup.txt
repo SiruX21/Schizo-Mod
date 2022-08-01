@@ -11,6 +11,7 @@ political_decisions = {
 		}
 		
 		effect = {
+			country_event = 6016814
 			1687 = { add_province_modifier = { name = strait_control_tile duration = -1 } }
 			517 = { add_province_modifier = { name = strait_control_tile duration = -1 } }
 			3572 = { add_province_modifier = { name = strait_control_tile duration = -1 } }
@@ -35,7 +36,7 @@ political_decisions = {
 				limit = {
 					ai = no
 				}
-				country_event = 60168151
+				country_event = 4207008
 			}
 			
 			630 = {
