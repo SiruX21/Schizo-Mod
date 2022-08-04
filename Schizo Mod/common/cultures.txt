@@ -2968,7 +2968,7 @@ southeast_asian = {
 east_asian = {
     leader = asian
     unit = ChineseGC
-    manchu = {
+    khitan = {
         color = {245 255 160}
         first_names = { Ma Deng Zhao Tong Guan Oboi Sonin Songgotu Suksaha Mingzhu Nalan Fu Hesehn Changlin
         }

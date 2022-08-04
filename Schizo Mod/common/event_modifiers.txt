@@ -2052,11 +2052,6 @@ christian_repression = {
 	icon = 20
 }
 
-anti_manchu_sentiment = {
-	pop_consciousness_modifier = 0.1
-	pop_militancy_modifier = 0.35
-	icon = 18
-}
 
 chinese_floods = {
 	pop_militancy_modifier = 0.1

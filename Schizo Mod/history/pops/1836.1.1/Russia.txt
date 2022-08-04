@@ -9321,31 +9321,31 @@
 #Chernomin (1000/250 POPS)
 1080 = {
     aristocrats = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 20
     }
 
     clergymen = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 50
     }
 
     artisans = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 80
     }
 
     soldiers = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 90
     }
 
     farmers = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 9630
     }
@@ -10712,37 +10712,37 @@
 #Yaksa (52000/13000 POPS)
 1081 = {
     aristocrats = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 125
     }
 
     bureaucrats = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 25
     }
 
     clergymen = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 100
     }
 
     artisans = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 550
     }
 
     soldiers = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 125
     }
 
     farmers = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 10575
     }
@@ -10804,31 +10804,31 @@
 #Magdagachi (44000/11000 POPS)
 2697 = {
     aristocrats = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 100
     }
 
     clergymen = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 100
     }
 
     artisans = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 500
     }
 
     soldiers = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 100
     }
 
     farmers = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 9200
     }
@@ -10868,43 +10868,43 @@
 #Haishenwai (328000/82000 POPS)
 1082 = {
     aristocrats = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 1500
     }
 
     bureaucrats = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 200
     }
 
     officers = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 200
     }
 
     clergymen = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 475
     }
 
     artisans = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 3900
     }
 
     soldiers = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 1200
     }
 
     farmers = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 31075
     }
@@ -10937,25 +10937,25 @@
 1083 = {
 
     clergymen = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 375
     }
 
     artisans = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 1000
     }
 
     soldiers = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 1200
     }
 
     farmers = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 22975
     }
@@ -10976,25 +10976,25 @@
 1084 = {
 
     clergymen = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 150
     }
 
     artisans = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 800
     }
 
     soldiers = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 175
     }
 
     farmers = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 14575
     }
@@ -11015,25 +11015,25 @@
 1085 = {
 
     clergymen = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 500
     }
 
     artisans = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 2000
     }
 
     soldiers = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 1200
     }
 
     farmers = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 19375
     }
@@ -11054,25 +11054,25 @@
 2617 = {
 
     clergymen = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 300
     }
 
     artisans = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 1000
     }
 
     soldiers = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 1200
     }
 
     farmers = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 20525
     }

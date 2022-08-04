@@ -1,5 +1,5 @@
 capital = 1555
-primary_culture = manchu
+primary_culture = khitan
 religion = mahayana
 government = colonial_company
 plurality = 0.0

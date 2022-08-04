@@ -111,19 +111,19 @@
     }
 
     bureaucrats = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 250
     }
 
     officers = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 150
     }
 
     soldiers = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 250
     }
@@ -695,43 +695,43 @@
 #Mukden (2128000/532000 POPS)
 1479 = {
     aristocrats = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 3000
     }
 
     bureaucrats = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 1000
     }
 
     officers = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 750
     }
 
     clergymen = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 1250
     }
 
     artisans = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 5000
     }
 
     soldiers = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 13000
     }
 
     farmers = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 56750
     }
@@ -823,31 +823,31 @@
 #Jinzhou (680000/170000 POPS)
 1480 = {
     aristocrats = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 1800
     }
 
     clergymen = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 300
     }
 
     artisans = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 600
     }
 
     soldiers = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 11225
     }
 
     farmers = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 19275
     }
@@ -885,31 +885,31 @@
 #Port Arthur (80000/15000 POPS)
 1481 = {
     aristocrats = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 250
     }
 
     clergymen = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 150
     }
 
     artisans = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 750
     }
 
     soldiers = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 150
     }
 
     farmers = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 13700
     }
@@ -1123,19 +1123,19 @@
     }
 
     bureaucrats = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 150
     }
 
     officers = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 250
     }
 
     soldiers = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 200
     }
@@ -1723,19 +1723,19 @@
     }
 
     bureaucrats = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 350
     }
 
     officers = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 250
     }
 
     soldiers = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 500
     }
@@ -2480,19 +2480,19 @@
     }
 
     bureaucrats = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 500
     }
 
     officers = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 300
     }
 
     soldiers = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 500
     }
@@ -3445,19 +3445,19 @@
     }
 
     bureaucrats = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 150
     }
 
     officers = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 75
     }
 
     soldiers = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 150
     }
@@ -3903,19 +3903,19 @@
     }
 
     bureaucrats = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 50
     }
 
     officers = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 25
     }
 
     soldiers = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 100
     }
@@ -4266,19 +4266,19 @@
     }
 
     bureaucrats = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 250
     }
 
     officers = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 150
     }
 
     soldiers = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 1100
     }
@@ -4980,19 +4980,19 @@
     }
 
     bureaucrats = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 350
     }
 
     officers = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 125
     }
 
     soldiers = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 1100
     }
@@ -5862,19 +5862,19 @@
     }
 
     bureaucrats = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 200
     }
 
     officers = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 100
     }
 
     soldiers = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 750
     }
@@ -6436,19 +6436,19 @@
     }
 
     bureaucrats = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 25
     }
 
     officers = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 75
     }
 
     soldiers = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 1100
     }
@@ -6511,25 +6511,25 @@
     }
 
     clergymen = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 200
     }
 
     artisans = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 300
     }
 
     soldiers = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 1100
     }
 
     farmers = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 3650
     }
@@ -6814,19 +6814,19 @@
     }
 
     bureaucrats = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 275
     }
 
     officers = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 250
     }
 
     soldiers = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 1100
     }
@@ -7874,19 +7874,19 @@
     }
 
     bureaucrats = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 200
     }
 
     officers = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 175
     }
 
     soldiers = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 500
     }
@@ -8539,12 +8539,12 @@
         size = 137425
     }
 }
-#Manchuria Region (6764000)
+#khitanria Region (6764000)
 #under the rule of China in 1836
 #Qiqihar (2784700/696175 POPS)
 1552 = {
     aristocrats = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 3750
     }
@@ -8556,37 +8556,37 @@
     }
 
     bureaucrats = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 300
     }
 
     officers = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 300
     }
 
     clergymen = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 500
     }
 
     artisans = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 1000
     }
 
     soldiers = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 1100
     }
 
     labourers = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 84100
     }
@@ -8656,25 +8656,25 @@
 1553 = {
 
     clergymen = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 300
     }
 
     artisans = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 1900
     }
 
     soldiers = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 1200
     }
 
     labourers = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 93950
     }
@@ -8730,31 +8730,31 @@
 #Ninguta (1068000/267000 POPS)
 1554 = {
     aristocrats = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 750
     }
 
     clergymen = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 400
     }
 
     artisans = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 1000
     }
 
     soldiers = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 9300
     }
 
     labourers = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 40400
     }
@@ -8792,7 +8792,7 @@
 }
 3440 = {
     slaves = {
-        culture = manchu
+        culture = khitan
         religion = confucian
         size = 3000
     }
@@ -8804,13 +8804,13 @@
     }
 
     soldiers = {
-        culture = manchu
+        culture = khitan
         religion = confucian
         size = 400
     }
 
     farmers = {
-        culture = manchu
+        culture = khitan
         religion = confucian
         size = 5600
     }
@@ -8819,25 +8819,25 @@
 1555 = {
 
     clergymen = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 850
     }
 
     artisans = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 700
     }
 
     soldiers = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 1200
     }
 
     labourers = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 87550
     }
@@ -8882,25 +8882,25 @@
 1002 = {
 
     clergymen = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 225
     }
 
     artisans = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 750
     }
 
     soldiers = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 1100
     }
 
     farmers = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 35800
     }
@@ -9067,19 +9067,19 @@
     }
 
     bureaucrats = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 25
     }
 
     officers = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 25
     }
 
     soldiers = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 100
     }
@@ -9495,19 +9495,19 @@
     }
 
     bureaucrats = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 75
     }
 
     officers = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 75
     }
 
     soldiers = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 500
     }
@@ -9913,19 +9913,19 @@
     }
 
     bureaucrats = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 300
     }
 
     officers = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 300
     }
 
     soldiers = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 1500
     }
@@ -10462,19 +10462,19 @@
     }
 
     bureaucrats = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 100
     }
 
     officers = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 125
     }
 
     soldiers = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 375
     }
@@ -10974,19 +10974,19 @@
     }
 
     bureaucrats = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 125
     }
 
     officers = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 150
     }
 
     soldiers = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 750
     }
@@ -12002,19 +12002,19 @@
     }
 
     bureaucrats = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 25
     }
 
     officers = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 25
     }
 
     soldiers = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 250
     }
@@ -12581,19 +12581,19 @@
     }
 
     bureaucrats = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 50
     }
 
     officers = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 75
     }
 
     soldiers = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 500
     }
@@ -13263,7 +13263,7 @@
         size = 31250
     }
     soldiers = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 15000
     }
@@ -13355,73 +13355,73 @@
     }
 
     aristocrats = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 11000
     }
 
     bureaucrats = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 550
     }
 
     clergymen = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 3000
     }
 
     artisans = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 11000
     }
 
     artisans = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 11000
     }
 
     soldiers = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 3000
     }
 
     soldiers = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 3000
     }
 
     soldiers = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 3000
     }
 
     soldiers = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 3000
     }
 
     soldiers = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 3000
     }
 
     soldiers = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 30000
     }
 
     farmers = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 47000
     }
@@ -13655,67 +13655,67 @@
     }
 
     aristocrats = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 5000
     }
 
     bureaucrats = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 10250
     }
 
     officers = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 3500
     }
 
     clergymen = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 500
     }
 
     artisans = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 11000
     }
 
     soldiers = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 3000
     }
 
     soldiers = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 3000
     }
 
     soldiers = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 3000
     }
 
     soldiers = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 3000
     }
 
     soldiers = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 18000
     }
 
     farmers = {
-        culture = manchu
+        culture = khitan
         religion = mahayana
         size = 10750
     }
