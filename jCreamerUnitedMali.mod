@@ -1,0 +1,7 @@
+name = "Victoria 2: Mechanics Enhanced"
+path = "mod/jCreamerUnitedMali"
+user_dir = "jCreamerUnitedMali"
+replace_path = "history/provinces"
+replace_path = "events"
+replace_path = "decisions"
+replace_path = "news"

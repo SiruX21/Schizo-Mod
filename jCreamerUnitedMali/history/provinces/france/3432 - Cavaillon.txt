@@ -1,0 +1,8 @@
+owner = FRA
+controller = FRA
+add_core = FRA
+add_core = PHL
+add_core = OCC
+trade_goods = silk
+terrain = avignon
+life_rating = 30

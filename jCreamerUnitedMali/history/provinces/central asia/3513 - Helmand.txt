@@ -1,0 +1,5 @@
+owner = PHL
+controller = PHL
+trade_goods = wool
+terrain = desert
+life_rating = 25

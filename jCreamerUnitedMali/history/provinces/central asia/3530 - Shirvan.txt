@@ -1,0 +1,8 @@
+owner = PHL
+controller = PHL
+add_core = PHL
+add_core = TUR
+add_core = KDS
+add_core = ARM
+trade_goods = wool
+life_rating = 35

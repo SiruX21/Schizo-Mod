@@ -1,7 +1,0 @@
-name = "Schizo Mod"
-path = "mod/Schizo Mod"
-user_dir = "Schizo Mod"
-replace_path = "history/provinces"
-replace_path = "events"
-replace_path = "decisions"
-replace_path = "gfx"

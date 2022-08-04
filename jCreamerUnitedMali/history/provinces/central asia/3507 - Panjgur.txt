@@ -1,0 +1,8 @@
+owner = PHL
+controller = PHL
+add_core = PHL
+add_core = BLC
+add_core = HND
+trade_goods = wool
+terrain = semi_desert_mountains
+life_rating = 25
