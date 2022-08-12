@@ -349,15 +349,15 @@ SWK		= "countries/Sarawak.txt"
 SZC		= "countries/Sichuan.txt"
 TAI		= "countries/Taiwan.txt"
 
-# Japan
-CHO		= "countries/Choshu.txt"
-KAG		= "countries/Kaga.txt"
-RYU		= "countries/Ryukyu.txt"
-SAT		= "countries/Satsuma.txt"
-SEN		= "countries/Sendai.txt"
-TKG		= "countries/Shogunate Japan.txt"
-TOS		= "countries/Tosa.txt"
-YZW		= "countries/Yonezawa.txt"
+# Japan // Needs Removal
+#CHO		= "countries/Choshu.txt"
+#KAG		= "countries/Kaga.txt"
+#RYU		= "countries/Ryukyu.txt"
+#SAT		= "countries/Satsuma.txt"
+#SEN		= "countries/Sendai.txt"
+#TKG		= "countries/Shogunate Japan.txt"
+#TOS		= "countries/Tosa.txt"
+#YZW		= "countries/Yonezawa.txt"
 
 # Australasia & the Pacific
 AOT     = "countries/Aotearoa.txt"

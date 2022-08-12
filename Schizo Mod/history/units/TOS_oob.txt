@@ -1,6 +1,3 @@
-RYU = { value = 125 }
-SUL = { value = 100 }
-BRU = { value = 100 }
 
 army = {
 	name = "Army of Daimyo Yamanuchi"
