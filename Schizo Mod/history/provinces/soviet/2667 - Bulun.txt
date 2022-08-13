@@ -1,6 +1,6 @@
-add_core = RUS
-add_core = YAK
+owner = MGL
+controller = MGL
+add_core = MGL
 trade_goods = timber
 terrain = montane_tundra
 life_rating = 10
-colonial = 2
