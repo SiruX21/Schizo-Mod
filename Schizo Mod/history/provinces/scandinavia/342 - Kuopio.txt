@@ -1,6 +1,6 @@
-owner = FIN
-controller = FIN
-add_core = FIN
-add_core = SWE
+owner = SCA
+controller = SCA
+
+add_core = SCA
 trade_goods = iron
 life_rating = 35

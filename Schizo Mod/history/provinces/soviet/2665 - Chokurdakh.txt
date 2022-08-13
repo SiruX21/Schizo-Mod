@@ -1,4 +1,5 @@
-add_core = RUS
-add_core = YAK
+owner = PHL
+controller = PHL
+add_core = PHL
 trade_goods = timber
 life_rating = 10

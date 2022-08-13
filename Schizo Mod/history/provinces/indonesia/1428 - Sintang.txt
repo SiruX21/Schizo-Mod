@@ -1,5 +1,5 @@
-owner = KLM
-controller = KLM
-add_core = KLM
+owner = PHL
+controller = PHL
+add_core = PHL
 trade_goods = coffee
 life_rating = 15

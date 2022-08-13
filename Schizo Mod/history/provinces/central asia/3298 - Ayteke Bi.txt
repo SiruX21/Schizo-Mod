@@ -1,5 +1,6 @@
-add_core = KAZ
+owner = MGL
+controller = MGL
+add_core = MGL
 trade_goods = wool
 life_rating = 30
 terrain = desert
-colonial = 1

@@ -1,8 +1,6 @@
-owner = RUS
-controller = RUS
-add_core = RUS
-add_core = URA
+owner = MGL
+controller = MGL
+add_core = MGL
 trade_goods = timber
 terrain = boreal
 life_rating = 10
-colonial = 2
