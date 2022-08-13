@@ -1,7 +1,7 @@
 owner = BDK
 controller = BDK
 add_core = BDK
-add_core = PHL
+
 add_core = TAJ
 trade_goods = wool
 life_rating = 32

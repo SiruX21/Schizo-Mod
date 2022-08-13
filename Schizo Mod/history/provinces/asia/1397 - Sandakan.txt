@@ -1,6 +1,6 @@
-owner = SUL
-controller = SUL
+owner = PHL
+controller = PHL
+add_core = PHL
 add_core = SUL
-add_core = KTI
 trade_goods = grain
 life_rating = 31

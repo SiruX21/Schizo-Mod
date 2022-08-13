@@ -1,7 +1,7 @@
-owner = PHL
-controller = PHL
+
+
 add_core = AFG
-add_core = PHL
+
 trade_goods = wool
 life_rating = 35
 terrain = semi_desert_mountains
